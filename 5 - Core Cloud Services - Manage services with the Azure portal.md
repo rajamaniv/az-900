@@ -1,0 +1,1 @@
+# Core Cloud Services - Manage services with the Azure portal
